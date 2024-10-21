@@ -1,2 +1,2 @@
-# Coffee-Mug-
-This Project contains basic coffee mug in entire UI.
+# Lane-Pavement-Detection
+Google collab notebook  file of Lane Pavement Detection.
